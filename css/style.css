@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*navbar*/
+.nav
+{   
+        top: 0;
+        position: sticky;
+        width: 100%;
+        height: fit-content;
+        background-color: rgb(19, 31, 49);
+        border-radius: 1px;
+        display:flex;
+}
+.navlinks
+{
+    list-style-type: none;
+    display: flex;
+    align-content: center;
+}
+
+
+
+.btn
+{
+    padding: 10px;
+    border: 0;
+    background-color: rgb(19, 31, 49);
+}
+.title{
+    font-family: sans-serif;
+    color: rgb(112, 197, 43);
+    font-size:28px;
+    font-weight: 500;
+    padding: 20px 5px;
+    text-decoration: none;
+    align-content: center;
+    align-items: center;
+}
+
+.items
+{
+    font-family:sans-serif;
+    font-size:20px;
+    display: flex;
+    align-items: center;
+    padding: 5px 30px;
+}
+.navlinks a{
+    text-decoration: none;
+    
+    color: whitesmoke;
+}
+.navlinks a:hover{
+    color:yellowgreen;
+}
+
+/* main */
+.img{
+    max-width:350px;
+    max-height: 280px;
+    border-radius: 150px;
+    margin:50px 40px;
+    float:left;
+}
+.main{
+    background:url('../img/bg1.jpg');    
+    width: 100%;
+    display: flex;
+
+}
+.intro{
+    display: flex;
+    margin:30px 10px;
+    flex-wrap: wrap;
+}
+.frontline
+{
+    color: rgb(15, 46, 65);
+    display: flex;
+    font-size: 0.5em;
+    font-family: Calibri;
+    font-weight: 500;
+    margin-left: 25px;
+    align-self: center;
+    animation-name: frontline;
+    animation-duration: 2s;
+
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+}
+
+/* The animation code */
+@keyframes frontline{
+    from {font-size:0.5rem;color: rgb(15, 46, 65);}
+    to {font-size:3.5rem;color: rgb(52, 75, 11);}
+    
+  }
+
+.para
+{
+    font-size: 1.5em;
+    font-family: Calibri;
+    color: rgb(19, 32, 25);
+    margin: 15px 25px;
+}
+
+/* media queries for intro*/
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+    div.example {
+      font-size: 80px;
+    }
+  }
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+  @media screen and (max-width: 639px) {
+    div.example {
+      font-size: 30px;
+    }
+    .intro{
+        flex-wrap: wrap;
+        font-size: 1.3em;
+    }
+    .main{
+        flex-wrap: wrap;
+    }
+  }
+
+.detail
+{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: url('../img/bg2.jpg');
+    height:fit-content;
+    width: 100%;
+}
+
+.blocks{
+    
+    width:400px;
+    height:fit-content;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 30px;
+    background-color: rgb(131, 149, 170);
+    border-radius: 20px;
+   
+}
+
+.heading
+{
+    color: rgb(245, 245, 245);
+    font-family: sans-serif; 
+    padding: 25px;
+    font-size: 40px;
+    font-weight: 500;
+    background-color:rgb(42, 87, 129);
+}
+
+.skills
+{   
+    font-size:20px ;
+    list-style-type: none;
+    color: azure;
+    line-height:50px;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+
+/* social account block */
+.details{
+    justify-content: center;
+    height:fit-content;
+    background-color: rgb(6, 34, 56);
+    width: 100%;
+}
+.social
+{   
+    margin: 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;   
+}
+.logo1
+{
+    
+    border-radius: 30px;
+    width: 120px;
+    height: 120px;
+    padding: 75px;
+}
+.logo
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 150px;
+    width: 120px;
+    height: 120px;
+    padding: 75px;
+}
