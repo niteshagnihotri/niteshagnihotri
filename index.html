@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NITESH AGNIHOTRI - PORTFOLIO</title>
+    <title>Nitesh Agnihotri</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Redressed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merienda&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="./img/favicon.jpg"/>
     <script>
         
@@ -16,71 +17,96 @@
              let btn = document.getElementById('btn');
             let links = document.getElementById('navlinks');
 
-        if(links.style.display != 'none'){
-            links.style.display = 'none';
+             if(links.style.display == 'none'){
+             links.style.display = 'flex';
             }
-         else{
-            links.style.display = 'flex';
+             else{
+             links.style.display = 'none';
+             }
         }
-    }
-        
-            
+
     </script>
 </head>
 <body>
+<!-- nav -->
     <nav class="nav">
-        <button class="btn" ><a onclick="show()" class="title" href="javascript:void(0)">Nitesh Agnihotri</a></button>
+        <button class="btn"><a onclick="show()" class="title" href="javascript:void(0)">Portfolio</a></button>
         
         <ul id="navlinks" class="navlinks">
             <li class="items"><a href="./doc/Nitesh agnihotri.docx" download>Resume</a></li>
         </ul>
+
     </nav>
 
-    <div class="main">
+<!-- animation -->
+    <div class="main" id="top">
         <img class="img" alt="Nitesh Agnihotri" src="./img/img1.jpg" />
        <div class="intro">
         <h1 class="frontline">It's me Nitesh Agnihotri</h1>
-        <p class="para">Hello And Welcome to my Portfolio, I am passionate to work in the Web technologies space and enjoy my time to work in new technologies</p>
+        <p class="para">Welcome to my Portfolio, I am passionate to work in the Web technologies space and enjoy my time to work in new technologies</p>
        </div>
     </div>
 
-    <div class="detail">
-        <div class="blocks">
-            <h2 class="heading">My Skills</h2>
-            <ul list-style-type:none>
-                <li class="skills">HTML</li>
-                <li class="skills">CSS</li>
-                <li class="skills">JAVASCRIPT</li>
-                <li class="skills">PHP</li>
-                <li class="skills">PYTHON (NUMPY AND PANDAS)</li>
-                <li class="skills">MYSQL AND PHPMYADMIN</li>
-            </ul>
-        </div>
-        <div class="blocks">
-            <h2 class="heading">My Experience</h2>
-                <p class="skills">I am a Fresher in IT Industry . I haven't worked with the companies but i have created many live projects .
-                    Right Now, I am learning various programming languages from online platform to grown up my skills . 
-                </p>
-        </div>
-        <div class="blocks">
-            <h2 class="heading">My Qualification</h2>
-                <p class="skills">
-                    I am pursuing Bachelor of Technology in Computer Science And Engineering with Specialization in Cyber Security . 
-                    Also I have done the course of PHP Web Developer from udemy.com So I can work as Web Developer .
-                </p>
+
+<!-- backtotop -->
+    <a href="#top" class="topbtn">&uArr;</a>
+   
+ <!-- about -->
+<div id="about">
+        <div class="article">
+           <p> <strong style="font-size:1.9em;color:rgb(43, 130, 170)">About </strong>- Hey There ! I am Nitesh Agnihotri , Pursuing Btech in Computer Science with Specialization in Cyber Security .
+             Right Now, Working as an <strong style="color:rgb(155, 196, 229);font-weight:580">ISP - Internshala Student Partner, 
+             Campus Ambassador of KAIZEN'21, NSS IIT Delhi for my University i.e. Shri Vaishnav Vidhyapeeth Vishwavidhyalaya Indore (M.P) 
+            </strong> and learning various Programming languages to grown up my skills 
+             in new technologies . Also I have the complete knowledge of Web Development <br>
+             <a class="orderbtn" href="mailto:agnihotrinitesh0@gmail.com">Order Website &#9745</a>
         </div>
     </div>
 
-    <div class="details">
-        <div class="social">          
+<!-- Services -->
+<div id="services">
+   <h2>Services</h2>
+   <div class="services"> 
+       <div class="ser-blocks">
+          <img src="./img/img5.jpg" class="ser-logo"  />    
+          <h3 class="caption">Logo Design</h3>
+        </div>
+        <div class="ser-blocks">
+          <img src="./img/img6.png" class="ser-logo"  />
+         <h3 class="caption">Website Development</h3>
+        </div>
+        <div class="ser-blocks">
+          <img src="./img/img7.png" class="ser-logo"  />
+            <h3 class="caption"> Marketing</h3>
+        </div>
+    </div>
+</div>
+
+    <div id="contact">
+        <div class="section">
+           <a style="text-decoration:none" href="#top"><span class="links">
+                    Home
+            </span></a>
+            <a style="text-decoration:none" href="#about"><span class="links">
+                    About
+            </span></a>
+            <a style="text-decoration:none" href="#services"><span class="links">
+                    Services
+            </span></a>
+
+            <span>&copy</span>
+        </div>
+        <div class="social">        
             <a href="mailto:agnihotrinitesh0@gmail.com" target="_blank"><img src="img/logo5.png" alt="Gmail" class="logo1"></a>
             <a href="https://www.facebook.com/nitesh.agnihotri.549/" target="_blank"><img src="img/logo1.png" alt="facebook" class="logo"></a>
             <a href="https://www.instagram.com/ni_sh41/" target="_blank"><img src="img/logo2.png" alt="Instagram" class="logo1"></a>
             <a href="https://www.linkedin.com/in/nitesh-agnihotri-9a58821b3" target="_blank"><img src="img/logo3.png" alt="LinkedIn" class="logo1"></a>
             <a href="https://www.github.com/ni2302sh" target="_blank"><img src="img/logo4.jpg" alt="Github" class="logo"></a>
-        </div>
-        <h2 class="para" style="display:flex;justify-content:center;color:aliceblue;margin-bottom:0px">Contact For Anytype of Web Services - 9340771476</h2>
-    </div>
+          </div>
+        
+      <span class="span">&#169; Copyright 2021 All Rights Are Reserved</span>
     
+    </div>
+
 </body>
 </html>
