@@ -136,7 +136,7 @@ body
 .para
 {
     font-size: 1.5em;
-    font-family: 'Charm', cursive;
+    font-family: 'Charm';
     color: rgb(150, 182, 201);
     margin: 5px 25px;
 }
@@ -234,7 +234,7 @@ body
     display: flex;
     justify-content: center;
     color: rgb(228, 173, 122);
-    font-family:'Charm', cursive ;
+    font-family:'Charm';
     margin-top: 5px;
     font-size:1.3em;
 }
