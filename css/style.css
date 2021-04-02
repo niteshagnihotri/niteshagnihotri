@@ -59,9 +59,9 @@ body
 .title{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     color: green;
-    font-size:28px;
+    font-size:30px;
     font-weight: 500;
-    padding:5px 20px;
+    margin:40px 40px;
    
     text-decoration: none;
     align-content: left;
@@ -144,15 +144,18 @@ body
         
   }
 
+  .title{
+    margin: 40px 30px;
+}
   .topbtn{
-      right: 40px;
+      right: 30px;
       bottom:40px;
   }
   }
 .para
 {
     font-size: 1.5em;
-    font-family: 'Charm',cursive ;
+    font-family: 'Charm', cursive;
     color: rgb(150, 182, 201);
     margin: 5px 15px;
 }
@@ -250,7 +253,7 @@ body
     display: flex;
     justify-content: center;
     color: rgb(228, 173, 122);
-    font-family:'Charm';
+    font-family:'Charm', cursive ;
     margin-top: 5px;
     font-size:1.3em;
 }
@@ -305,7 +308,6 @@ body
         display: flex;
         justify-content: center;
         font-size: 1.1em;
-        font-family:'Merienda'
     }
   
 }
