@@ -250,7 +250,7 @@ body
     display: flex;
     justify-content: center;
     color: rgb(228, 173, 122);
-    font-family:'Charm';
+    font-family:'Merienda', cursive;
     margin-top: 5px;
     font-size:1.3em;
 }
