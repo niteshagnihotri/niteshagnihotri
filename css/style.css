@@ -127,6 +127,13 @@ body
     animation-delay: 3s;
 }
 
+.floating
+{
+    color: rgb(224, 185, 180);
+    font-family: 'Merienda', cursive;
+    
+}
+
 /* The animation code */
 
 @media screen and (min-width: 601px) 
