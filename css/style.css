@@ -39,7 +39,7 @@ body
         height: fit-content;
         background:url('../img/bg4.jpg');
        
-        border: 0px;
+        border: 0px hidden;
         display:flex;
 }
 #navlinks
@@ -53,7 +53,7 @@ body
 
 .btn
 {
-    padding: 15px 2px;
+    padding: 2px 2px;
     border: 0;
     background-color: inherit;
 }
@@ -62,7 +62,7 @@ body
     color: green;
     font-size:30px;
     font-weight: 500;
-    margin:40px 20px;
+    margin:10px 20px;
    
     text-decoration: none;
     align-content: left;
@@ -146,7 +146,7 @@ body
   }
 
   .title{
-    margin: 40px 30px;
+    margin: 5px 10px;
 }
   .topbtn{
       right: 30px;
@@ -390,8 +390,8 @@ body
     .title{
         display: flex;
         justify-content: center;
-        padding: 20px;
-        margin: 0px;
+        padding: 5px;
+        margin: 3px;
     }
     
 }
