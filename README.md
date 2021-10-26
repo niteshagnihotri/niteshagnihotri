@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nitesh Agnihotri, <p>An Open-Source Enthusiast who is a full time learner and a passionate Web developer.</p>
-I am an undergrad sophomore of B.Tech CSE with specialization in Information and Cyber Security. I have a keen interest to try out new tech and gain experience in different fields. I am always open to work and devote my time to enhance my skills to another level. I can work as a Web Developer and have an Intermediate Knowledge of C, C++, Core Java, Data Structures and Algorithms, HTML, CSS, Javascript, PHP, Nodejs and A DBMS that includes MYSQL, NOSQL, PhpMyAdmin and MongoDB
+I am an undergrad sophomore of B.Tech CSE with specialization in Full Stack Development and Blockchain. I have a keen interest to try out new tech and gain experience in different fields. I am always open to work and devote my time to enhance my skills to another level. I can work as a Web Developer and have an Intermediate Knowledge of C, C++, Core Java, Data Structures and Algorithms, HTML, CSS, Javascript, PHP, Nodejs and A DBMS that includes MYSQL, NOSQL, PhpMyAdmin and MongoDB
 
 <!--
 **niteshagnihotri/niteshagnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
