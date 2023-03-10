@@ -28,7 +28,7 @@
 I am a Full Stack Developer from India.
 - :telescope: I’m working as a Freelancer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring on Cloud Developement & Deployment.
+- :seedling: Exploring on Decentralised Development
 
 - :zap: In my free time, I create projects based on MERN Stack.
 
