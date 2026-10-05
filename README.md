@@ -134,4 +134,4 @@ I'm interested in opportunities involving:
 
 Feel free to connect or collaborate on interesting engineering and AI projects.
 
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/niteshagnihotri/) • [GitHub](https://github.com/niteshagnihotri)
