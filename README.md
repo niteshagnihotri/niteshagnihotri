@@ -1,63 +1,137 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/niteshagnihotri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://niteshagnihotri.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=Proto.io&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://twitter.com/NiteshAgni23">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=niteshagnihotri&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there !
-</h1>
-</div>
+# Hi, I'm Nitesh Agnihotri 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+### Java Full Stack Engineer | Spring Boot | AWS | React | GenAI
+
+I'm a **Java Full Stack Engineer** focused on building scalable backend systems, cloud-native applications, and modern full-stack solutions.
+
+I work primarily with **Java, Spring Boot, React/Next.js, AWS, and distributed systems**, with a growing focus on **Generative AI, LLM applications, RAG, and AI agents**.
 
 ---
 
-### :woman_technologist: About Me :
+## 🚀 About Me
 
-I am a Full Stack Developer from India.
-- :telescope: I’m working as a Freelancer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring on Decentralised Development
-
-- :zap: In my free time, I create projects based on MERN Stack.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-niteshagnihotri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niteshagnihotri/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Core Java" alt="Core Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws"  alt="aws" width="44" height="44"/>&nbsp;
-</div>
+- 💻 Java Full Stack Engineer specializing in **Spring Boot microservices and React/Next.js**
+- ☁️ Experienced with **AWS cloud services and event-driven architectures**
+- 🔧 Building scalable systems using **SNS, SQS, Lambda, ECS, DynamoDB, and CloudFormation**
+- 🤖 Exploring and building **LLM-powered applications, RAG pipelines, semantic search, and AI agents**
+- 🧪 Strong focus on **code quality, testing, observability, and reliable deployments**
+- 🏆 AWS Certified Developer – Associate
+- 🌱 Currently deepening my knowledge of **GenAI, Agentic AI, and modern backend architectures**
 
 ---
 
-### :fire: My Stats :
+## 🛠️ Tech Stack
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niteshagnihotri&theme=dark&background=000000)](https://git.io/streak-stats)
+### Backend
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Redis` `Node.js` `FastAPI`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshagnihotri&layout=compact&theme=vision-friendly-dark)](https://github.com/niteshagnihotri/niteshagnihotri)
+### Frontend
+`React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
+### Cloud & DevOps
+`AWS` `Docker` `GitHub Actions` `CloudFormation`
 
+### AWS
+`Lambda` `SNS` `SQS` `ECS` `DynamoDB` `CloudWatch`
+
+### Databases
+`DynamoDB` `PostgreSQL` `SQL` `NoSQL`
+
+### Generative AI
+`LLMs` `Prompt Engineering` `RAG` `LangChain` `Embeddings` `Semantic Search` `AI Orchestration` `Agentic AI`
+
+### Testing & Developer Tools
+`JUnit` `Mockito` `SonarQube` `Nexus IQ` `Git` `Jira` `Postman` `Bruno` `GitHub Copilot` `Codex` `Claude`
+
+---
+
+## 💼 Professional Experience
+
+### PwC — Associate 2 (Java Developer)
+**Mar 2026 – Present**
+
+Working on enterprise insurance platforms using **Java, Spring Framework, React.js/JSP, SQL, and AWS**.
+
+- Customize the FINEOS insurance platform based on client requirements
+- Develop Java/Spring Framework backend changes and React.js/JSP UI enhancements
+- Work with complex SQL queries for large insurance datasets
+- Develop GenAI/LLM-powered solutions using **LangChain, RAG, embeddings, semantic search, AI agents, and orchestration**
+- Manage source code and deployments using **AWS CodeCommit and CodePipeline**
+
+### Tata Consultancy Services — Systems Engineer
+**Jul 2024 – Mar 2026**
+
+Worked on large-scale distributed systems using **Java, Spring Boot, AWS, and DynamoDB**.
+
+- Developed Spring Boot microservices and REST APIs using Java 17
+- Built event-driven processing using **AWS SNS, SQS, and Lambda**
+- Worked with systems processing **millions of invoices**
+- Optimized DynamoDB access using **Global Secondary Indexes and pagination** for 1M+ records
+- Automated deployments using **GitHub Actions, AWS ECS, and CloudFormation**
+- Implemented observability using **CloudWatch, Honeycomb, and Splunk**
+- Improved code quality through testing, SonarQube, Nexus IQ, and GitHub Copilot
+
+### WeframeTech — Full Stack Developer
+**Jun 2023 – Jul 2024**
+
+Built SaaS applications using **Next.js, React, Node.js, Directus, and PostgreSQL**.
+
+- Developed order management, payment, authentication, and CSV import/export features
+- Built reusable frontend components to accelerate feature delivery
+- Improved frontend performance by approximately **40%**
+- Resolved **400+ production issues**, significantly reducing customer-reported defects
+
+---
+
+## 🔨 Featured Project
+
+### Resume.io — AI Resume Builder
+
+**React • Next.js • Node.js • Docker • AWS • Ollama • Playwright**
+
+An AI-powered resume builder focused on generating **ATS-optimized resumes**.
+
+- Integrated **Ollama LLM** for personalized resume content generation
+- Implemented Google OAuth authentication
+- Built server-side PDF rendering using **Playwright**
+- Designed the application with privacy in mind using locally hosted LLM capabilities
+
+---
+
+## ☁️ AWS Certification
+
+**AWS Certified Developer – Associate (DVA-C02)**
+
+---
+
+## 📊 What I'm Currently Learning
+
+```text
+Generative AI
+    ├── LLM Applications
+    ├── RAG
+    ├── Embeddings
+    ├── Semantic Search
+    ├── LangChain
+    ├── AI Agents
+    └── Agentic Workflows
+
+Backend Engineering
+    ├── Advanced Spring Boot
+    ├── Microservices
+    ├── Distributed Systems
+    ├── System Design
+    └── Performance & Scalability
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Java • Spring Boot • Microservices • AWS • React • Full Stack Development • GenAI**
+
+Feel free to connect or collaborate on interesting engineering and AI projects.
+
+[LinkedIn](#) • [GitHub](#)
